@@ -1,0 +1,9 @@
+{
+  "project": "Kanji Master — Source-First PWA",
+  "sourceFiles": [
+    {"id":"all450","name":"Kanji all 450(4).pdf","pages":47,"claim":"450 Kanji on source cover","path":"sources/kanji-all-450.pdf"},
+    {"id":"n4","name":"N4 Kanji (2).pdf","pages":132,"path":"sources/n4-kanji.pdf"}
+  ],
+  "sourceEntryCount": 450,
+  "note": "450 is the source-cover claim for the first PDF, not a newly inferred unique-Kanji count. Structured records are shown only when source extraction is verified; all source pages remain accessible so no source content is silently omitted."
+}

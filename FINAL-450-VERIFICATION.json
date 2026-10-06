@@ -1,0 +1,41 @@
+{
+  "project": "Sihina Kanji Master",
+  "release": "FINAL-450-CREATIVE-EXPLANATION-FIXED",
+  "generated_utc": "2026-10-06",
+  "source_entries": 450,
+  "unique_source_ids": 450,
+  "source_slots": 450,
+  "source_images": 450,
+  "page_images": 67,
+  "memory_records": 450,
+  "creative_explanations": 450,
+  "unique_memory_source_ids": 450,
+  "missing_memory_ids": [],
+  "missing_source_images": [],
+  "source_preserved_records": 450,
+  "structured_source_records": 30,
+  "unstructured_source_records": 420,
+  "character_memory_clues": 53,
+  "root_app_files": [
+    "index.html",
+    "app.js",
+    "styles.css",
+    "sw.js",
+    "manifest.webmanifest",
+    ".nojekyll",
+    "README.md"
+  ],
+  "deployment_workflow": ".github/workflows/pages.yml",
+  "source_pdfs": [
+    "sources/kanji-all-450.pdf",
+    "sources/n4-kanji.pdf"
+  ],
+  "notes": [
+    "All 450 source entries remain preserved; no source entry or source image was removed.",
+    "All 450 memory records now contain a dedicated Creative Sinhala Explanation field.",
+    "The UI displays Creative Sinhala Explanation instead of the previous repeated generic memory text.",
+    "Creative explanations are learning mnemonics, not claims of official Kanji etymology.",
+    "Original source images and PDFs remain included.",
+    "Where structured source transcription is unavailable, the original source visual remains authoritative."
+  ]
+}
